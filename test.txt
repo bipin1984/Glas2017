@@ -1,1 +1,2 @@
 line is added to the file
+Line2 added to the file
