@@ -1,2 +1,3 @@
 line is added to the file
 Line2 added to the file
+One more line added to master
